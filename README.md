@@ -1,2 +1,2 @@
-# Uthpala_AsseblyHello
+# Uthpala_AssemblyHello
 Waste Segregation system 
